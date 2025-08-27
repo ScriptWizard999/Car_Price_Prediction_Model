@@ -96,3 +96,6 @@ Install the following before running the project:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
+```
+Also uses Python's built-in:
+- re (regular expressions)
